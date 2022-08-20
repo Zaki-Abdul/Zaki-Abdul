@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Zaki-Abdul
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi Welcome to My GITHUB, I’m @Zaki-Abdul
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning How to code ("Front End Web Dev");
+- 📫 How to reach me 
+- zakiabdul900@gmail.com
 
 <!---
 Zaki-Abdul/Zaki-Abdul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
